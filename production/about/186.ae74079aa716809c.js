@@ -1,0 +1,1 @@
+(self.webpackChunkabout=self.webpackChunkabout||[]).push([[186],{186:(e,t,n)=>{n.r(t),n.d(t,{default:()=>c});var a=n(770),l=n(903);const u=(0,a.Z)("div",{target:"e11ialew0"})({name:"zl1inp",styles:"display:flex;justify-content:center"});function c(){return(0,l.tZ)(u,{children:(0,l.tZ)("h1",{children:"---- AboutPage ----"})})}}}]);
